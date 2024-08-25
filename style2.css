@@ -1,0 +1,41 @@
+avber{display: flex;
+    justify-content: space-between;
+    align-items: center;}
+    .m{display: flex;
+    gap: 15px;
+    list-style: none;}
+    .list li{padding: 8px;}
+    .a{background-color: chartreuse;
+    color: azure;}
+    hr{width: 400px;}
+    .b{ display: flex;
+        justify-content: center;
+        gap: 15px;}
+        img{width: 200px;}
+    .d{display: flex;
+    margin: 10px;
+    gap: 40px;}
+    .c{background-color: blueviolet;
+    margin: 0 auto;
+    width: 600px;
+    padding: 10px; }
+     .mm{background-color: burlywood; padding: 10px;
+    width: 600px;
+    margin: 0 auto;} 
+    .e{ display: flex;
+    gap: 10px;}
+    .z{width: 40px;}  
+    .l{display: flex; 
+    gap: 20px; } 
+    .s{display: block;
+    margin: 0 auto;
+    background-color: chartreuse;}
+    .p{background-color: gainsboro;}
+    .ab{display: flex;
+        justify-content: center;
+        gap: 15px;
+        width: 700px;
+    margin: 0 auto;
+background-color: bisque;
+padding: 10px; }
+        li{gap: 10pxs;}

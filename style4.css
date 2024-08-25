@@ -1,0 +1,18 @@
+h1{color: olive;}
+h2{color: olivedrab;
+}
+h3{color: seagreen;}
+table
+   {border: 5px color(srgb red green blue); 
+}
+table tr td{
+    border: 2px solid black;}
+table{border-collapse:collapse ;}
+img{width: 300px;
+position: absolute;
+right: 10s00px;}
+
+span{
+display: block;
+display: none;}
+footer{align-items: center;}
